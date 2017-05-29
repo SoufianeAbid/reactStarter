@@ -20,3 +20,16 @@ Simple react boilerplate (React, Babel, Express, Webpack).
 ```
 git clone https://github.com/SoufianeAbid/reactStarter.git
 ```
+And run the setup 
+
+```
+npm install
+```
+
+And start the development server
+
+```
+npm start
+```
+
+
